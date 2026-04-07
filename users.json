@@ -1,0 +1,23 @@
+{
+    "admin": {
+        "id": "admin",
+        "username": "admin",
+        "email": "admin@admin.com",
+        "password": "$2y$10$NKp6xkYHdoeHL9\/hWdpb4uRLbBgdh4Wx4GtUqo4GlFWb0.POVUDHy",
+        "is_admin": true
+    },
+    "694fdde90b63b": {
+        "username": "cefer",
+        "email": "nese@example.com",
+        "password": "$2y$10$emgRFw2loRqRCKvIe\/eANe.O6e1vRPD7SAWq.Yg\/fk3cByqF8O6ga",
+        "is_admin": false,
+        "id": "694fdde90b63b"
+    },
+    "694fed0ed8cee": {
+        "username": "doti",
+        "email": "doti@example.com",
+        "password": "$2y$10$5gJqdxfnw9uvKc1vY9qfhOoVArm52VbCeOVz2vk7\/FmGxiVzNihbi",
+        "is_admin": false,
+        "id": "694fed0ed8cee"
+    }
+}

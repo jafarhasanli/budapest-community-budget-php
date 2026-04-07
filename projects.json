@@ -1,0 +1,98 @@
+{
+    "p1": {
+        "id": "p1",
+        "title": "Community bike parking expansion in District XI",
+        "description": "The project aims to install new secure bicycle parking areas in District XI to support eco-friendly transportation. Currently, many residents avoid cycling due to the lack of safe bike storage. This project would introduce covered bike racks near public transport hubs, schools, and shopping areas, encouraging sustainable commuting and reducing car traffic.",
+        "category": "Green Budapest",
+        "postal": "1117",
+        "image": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/d\/d1\/Bicycle_Parking_Copenhagen.jpg",
+        "owner": "admin",
+        "status": "approved",
+        "submitted": "2025-03-01 10:00",
+        "approved": "2026-03-05 09:00"
+    },
+    "p2": {
+        "id": "p2",
+        "title": "After-school digital skills program for disadvantaged youth",
+        "description": "This project proposes a free after-school digital education program for disadvantaged students in Budapest. The program would focus on basic computer literacy, internet safety, and introductory programming. By providing equal access to digital knowledge, the initiative aims to reduce educational inequality and improve future job opportunities for participants.",
+        "category": "Equal opportunity Budapest",
+        "postal": "1082",
+        "image": "https:\/\/scratchpad.co.nz\/wp-content\/uploads\/2015\/01\/online_classroom.jpg",
+        "owner": "admin",
+        "status": "approved",
+        "submitted": "2025-03-02 14:30",
+        "approved": "2026-03-06 08:45"
+    },
+    "p3": {
+        "id": "p3",
+        "title": "Renovation of small neighborhood playground in District XV",
+        "description": "The project focuses on renovating an outdated playground in District XV. New, safe play equipment will be installed, including swings, slides, and climbing structures suitable for different age groups. The area will also be landscaped with benches and greenery to create a welcoming community space for families.",
+        "category": "Local small project",
+        "postal": "1152",
+        "image": "https:\/\/info.mayrecreation.com\/hubfs\/MREC_2019_CAN_GilGordon_0807.jpg",
+        "owner": "admin",
+        "status": "approved",
+        "submitted": "2025-03-03 16:10",
+        "approved": "2025-03-07 11:20"
+    },
+    "p4": {
+        "id": "p4",
+        "title": "Community cultural center renovation and accessibility upgrade",
+        "description": "This proposal aims to renovate a local cultural center to improve accessibility for people with disabilities. Planned improvements include wheelchair ramps, accessible restrooms, and better lighting. The project will enable inclusive access to cultural events and community programs for all residents.",
+        "category": "Local large project",
+        "postal": "1024",
+        "image": "https:\/\/www.noa.network\/site\/assets\/files\/11192\/01_scenario_shore_cecuco.0x1490.jpg",
+        "owner": "admin",
+        "status": "pending",
+        "submitted": "2025-03-08 13:00",
+        "approved": "2025-12-27 15:25"
+    },
+    "p5": {
+        "id": "p5",
+        "title": "Urban tree planting initiative in densely populated areas",
+        "description": "The goal of this project is to plant new trees in densely populated areas of Budapest to improve air quality and reduce urban heat. The initiative will prioritize streets with limited green space and involve local residents in the planting process to strengthen community engagement.",
+        "category": "Green Budapest",
+        "postal": "1053",
+        "image": "https:\/\/canopy.org\/wp-content\/uploads\/21809279239_e70c1de1ab_o-1-1024x684.jpg",
+        "owner": "admin",
+        "status": "rework",
+        "submitted": "2025-03-04 09:30",
+        "approved": null
+    },
+    "p6": {
+        "id": "p6",
+        "title": "Mobile health consultation service for elderly residents",
+        "description": "This project proposes a mobile health consultation service for elderly residents who have difficulty accessing medical facilities. A mobile unit staffed by healthcare professionals would visit neighborhoods weekly, providing basic health checks, consultations, and referrals, improving overall quality of life for seniors.",
+        "category": "Equal opportunity Budapest",
+        "postal": "1007",
+        "image": "https:\/\/cdn.aarp.net\/content\/dam\/aarpe\/en\/home\/caregiving\/medical\/mobile-medical-care\/_jcr_content\/root\/container_main\/container_body_main\/container_image\/articlecontentfragme\/cfimage.coreimg.75.1440.jpeg\/content\/dam\/aarp\/caregiving\/2021\/10\/1140-woman-telehealth.jpg",
+        "owner": "admin",
+        "status": "rejected",
+        "submitted": "2025-03-06 15:45",
+        "approved": null
+    },
+    "694fee1383d3f": {
+        "title": "Public outdoor fitness area for residents of District VIII",
+        "description": "This project proposes the creation of a free outdoor fitness area in District VIII to promote a healthy lifestyle among residents. The area would include basic workout equipment such as pull-up bars, balance trainers, and stretching stations. The fitness zone would be accessible to people of all ages and encourage physical activity in a safe and community-friendly environment.\r\n",
+        "category": "Local small project",
+        "postal": "1081",
+        "image": "https:\/\/cdn.prod.website-files.com\/62d97c66ececb4fb0de88885\/659f1c2ef164867e10e155bd_FitnessEquipmentHeaderx1920.jpg",
+        "owner": "admin",
+        "status": "pending",
+        "submitted": "2025-12-27 15:32",
+        "approved": null,
+        "id": "694fee1383d3f"
+    },
+    "694fef1acfd6d": {
+        "title": "Improving street lighting for safer evening travel in District XIII",
+        "description": "This project aims to improve public safety by upgrading outdated street lighting in District XIII. Many streets currently suffer from insufficient lighting, which makes evening travel uncomfortable and unsafe for pedestrians and cyclists. The project would replace old lamps with energy-efficient LED lights, improving visibility, reducing crime risk, and enhancing the overall feeling of safety in the neighborhood.\r\n ",
+        "category": "Local large project",
+        "postal": "1134",
+        "image": "https:\/\/constructive-voices.com\/wp-content\/uploads\/2024\/09\/cv-logo-2.png",
+        "owner": "cefer",
+        "status": "pending",
+        "submitted": "2025-12-27 15:37",
+        "approved": null,
+        "id": "694fef1acfd6d"
+    }
+}
