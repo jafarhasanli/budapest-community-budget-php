@@ -97,6 +97,7 @@ php_assignment/
 ├── projects.json
 ├── users.json
 ├── votes.json
+├── screenshots/
 ├── .gitignore
 └── README.md
 ```
@@ -180,9 +181,8 @@ Add screenshots in a `screenshots/` folder, for example:
 screenshots/
 ├── home-page.png
 ├── submit-project.png
-├── own-projects.png
+├── MyProjects.png
 ├── admin-page.png
-├── project-detail.png
 └── statistics-page.png
 ```
 
